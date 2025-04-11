@@ -1,0 +1,15 @@
+<script setup>
+import { ref } from 'vue'
+
+
+defineProps({
+ edad: String,
+})
+</script>
+
+<template>
+<h6> Soy el Componente Hijo1</h6>
+<p>{{ edad }}</p>
+</template>
+
+<style scoped></style>
