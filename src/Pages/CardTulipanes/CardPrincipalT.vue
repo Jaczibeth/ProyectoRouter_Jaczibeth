@@ -6,7 +6,7 @@
       <div class="col-md-6">
         <div class="card">
           <div class="card-header">
-           <h6 class="text-center">TULIPANES ROSAS</h6>
+           <h6 class="text-center"style=" font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">TULIPANES ROSAS</h6>
           </div>
           <div class="card-body">
             <div class="card" style="width: 36rem;">
@@ -21,7 +21,7 @@
    <div class="col-md-6">
     <div class="card">
           <div class= "card-header" >
-            <h6 class="text-center">TULIPANES ROJOS</h6>
+            <h6 class="text-center" style=" font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">TULIPANES ROJOS</h6>
           </div>
           <div class="card-body"> 
             <div class="card" style="width:36rem;">

@@ -26,7 +26,7 @@
             <div class="card" style="width: 18rem;">
              <img src="https://img.freepik.com/premium-photo/there-is-vase-with-pink-tulips-it-white-background-generative-ai_902049-49406.jpg" class="card-img-top" alt="...">
              <div class="card-body text-center">
-              <p class="card-text">Con su gracia y sencillez, los tulipanes nos enseñan que la belleza no necesita palabras.<br><br> Solo basta su presencia para iluminar cualquier rincón con su encanto natural.</p>
+              <p class="card-text">Con su gracia y sencillez, los tulipanes nos enseñan que la belleza no necesita palabras.<br>Solo basta su presencia para iluminar cualquier rincón con su encanto natural.</p>
               <button class="btn btn-warning">Más Información</button>
               </div>
             </div>
@@ -35,7 +35,7 @@
             <div class="card" style="width: 18rem;">
              <img src="https://th.bing.com/th/id/OIP.pPw2CKOILG9QpOgHZqvZSgHaHa?w=980&h=980&rs=1&pid=ImgDetMain" class="card-img-top" alt="...">
              <div class="card-body text-center">
-              <p class="card-text">Los tulipanes bailan con el viento, pintando los campos con su magia.<br><br> Cada pétalo es un susurro de primavera, un abrazo de color que llena el alma de alegría.</p>
+              <p class="card-text">Los tulipanes bailan con el viento, pintando los campos con su magia.<br><br>Cada pétalo es un susurro de primavera, un abrazo de color que llena el alma de alegría.</p>
               <button class="btn btn-warning">Más Información</button>
               </div>
             </div>

@@ -6,7 +6,7 @@ import cardt from './cardt.vue';
 
     <div class="container">
   
-      <h1 class="text-center">TULIPANES</h1>
+      <h1 class=" text-center" style="font-size: 30px;font-family: Verdana, Geneva, Tahoma, sans-serif;">TULIPANES</h1>
       <!-- INICIO DEL PRIMERO ROW -->
      <CardPrincipalT/>
       <!-- CIERRE DEL PRIMER ROW -->
