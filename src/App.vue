@@ -12,6 +12,10 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav">
+        <!-- Bienvenida -->
+        <li class="nav-item">
+          <a class="nav-link text-decoration-none" href="#">  <router-link to="/bienvenida" class="nav-link text-decoration-none">Bienvenida</router-link></a>
+        </li>
         <!-- HOME -->
         <li class="nav-item">
           <a class="nav-link  text-decoration-none" href="#"><router-link to="/" class="nav-link text-decoration-none">Home</router-link> </a>

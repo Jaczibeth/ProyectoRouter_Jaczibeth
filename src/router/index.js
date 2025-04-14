@@ -17,8 +17,13 @@ import CardTulipan from "../Pages/CardTulipanes/CardTulipan.vue"
 import Evento from "../Pages/Eventos/Evento.vue";
 import EventosJaczibeth from "../Pages/Eventos/EventosJaczibeth.vue";
 import PaginaCafe from "../Pages/PaginaWeb/PaginaCafe.vue";
+import Bienvenida from "../Pages/Bienvenida.vue";
 
 const routes = [
+  { path: "/bienvenida", 
+    name: "Bienvenida", 
+    component: Bienvenida,
+ },
   { path: "/", 
     name: "Home", 
     component: Home,
