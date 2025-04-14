@@ -6,7 +6,7 @@
      <div id="app">
       <div class="container p-3">
         <nav class="navbar navbar-expand-lg bg-body-tertiary">
-    <a class="navbar-brand" href="#">Proyecto</a>
+    <a class="navbar-brand m-6" href="#">Proyecto</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -84,24 +84,46 @@
 #app {
   background-color: #f4e6fb;
   min-height: 100vh;
-}
-.nav-link {
-  color: #4e2a84;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .dropdown-menu {
   background-color: #f3d8f8;
   border: none;
   font-family: 'Arial', sans-serif;
   font-size: 15px;
+  box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
 }
 
 .navbar-brand {
   font-family: 'Impact', Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 30px;
   color: #6c3a8d;
+  font-weight: bold;
+}
+.nav-link:hover {
+  color: #8e44ad !important;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 
+.navbar-brand {
+  font-family: 'Impact', Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 28px;
+  color: #6c3a8d !important;
+  text-align: center;
+  margin: 0 auto;
+  padding-left: 10px;
+  padding-right: 10px;
+}
 
+.navbar {
+  background-color: #d2f8fd !important;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  justify-content: center;
+}
+.dropdown-item:hover {
+  background-color: #ecd6f6;
+  color: #a44fd7;}
 </style>
